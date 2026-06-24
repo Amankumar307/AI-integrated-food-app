@@ -8,7 +8,7 @@ const StoreContextProvider = (props) => {
     const [cartItems, setCartItems] = useState({});
     const [foodList, setFoodList] = useState([]); // ✅ Changed variable name
     const [token, setToken] = useState("");
-    const url = "http://localhost:4000";
+    const url = "https://ai-integrated-food-app-2.onrender.com"
 
     const addToCart = async (itemId) => {
         setCartItems((prev) => ({
