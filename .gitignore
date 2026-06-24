@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 # Ignore environment variables
 .env
 .env.local
@@ -31,4 +34,37 @@ logs/
 # OS-generated files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> 01607eb1f9e478d6a2b2d64152fdaf6179acf2f3
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+<<<<<<< HEAD
+=======
+>>>>>>> 61a6bf0 (New branch)
+>>>>>>> 01607eb1f9e478d6a2b2d64152fdaf6179acf2f3
+>>>>>>> 293f43f0b75d82e45e9c48f4d552438edde731f7
