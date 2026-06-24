@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "fronted",
+=======
+  "name": "admin",
+>>>>>>> 01607eb1f9e478d6a2b2d64152fdaf6179acf2f3
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,10 +15,17 @@
   },
   "dependencies": {
     "axios": "^1.7.3",
+<<<<<<< HEAD
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1"
+=======
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0",
+    "react-toastify": "^10.0.5"
+>>>>>>> 01607eb1f9e478d6a2b2d64152fdaf6179acf2f3
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

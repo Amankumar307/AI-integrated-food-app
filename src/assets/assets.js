@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import header_img from './header_img.png'
@@ -347,3 +348,24 @@ export const food_list = [
         food_category: "Noodles"
     }
 ]
+=======
+import logo from './logo.png'
+import add_icon from './add_icon.png'
+import order_icon from './order_icon.png'
+import profile_image from './profile_image.png'
+import upload_area from './upload_area.png'
+import parcel_icon from './parcel_icon.png'
+
+export const url = 'http://localhost:4000'
+export const currency = '₹'
+
+export const assets ={
+    logo,
+    add_icon,
+    order_icon,
+    profile_image,
+    upload_area,
+    parcel_icon
+}
+
+>>>>>>> 01607eb1f9e478d6a2b2d64152fdaf6179acf2f3
